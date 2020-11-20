@@ -1,0 +1,41 @@
+.container {
+    width: 80%;
+    height: auto;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-bottom: 0;
+    border-bottom: 1px solid #A2A2A2;
+    padding: 10px;
+}
+
+.logo{
+    width: 5%;
+    height: auto;
+    margin: 10px;
+}
+
+
+.logo img {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
